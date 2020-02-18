@@ -1,2 +1,2 @@
 # about-me
-Again dont know where the notes are but trying to figure thid out for myself
+My name is Bianca and I have no experience in coding
